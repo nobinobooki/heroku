@@ -1,6 +1,6 @@
 <?php
  
-$accessToken = 'ここに「Channel Access Token」をコピペする';
+$accessToken = 'poBMExkh/h7Uh9fUxXFWji2T08Fq9QkkQ12uk+8eydd16mP2MD4UUbeYhV1chN9j0xz24f+YgW6Qao7tpuD+sXN+338YB6/WBAbMyOG7RryYIH33L70ONYaRqqPY2ujBPbIVKKrJfFpXReVXnV5V3gdB04t89/1O/w1cDnyilFU=';
  
 //ユーザーからのメッセージ取得
 $json_string = file_get_contents('php://input');
